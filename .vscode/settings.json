@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stm32f429xx.h": "c",
+        "stm32f4xx_ll_rcc.h": "c",
+        "stm32f4xx_ll_utils.h": "c",
+        "math.h": "c",
+        "stm32f4xx_ll_tim.h": "c",
+        "stm32f4xx_ll_gpio.h": "c",
+        "gpio.h": "c",
+        "stm32f1xx_ll_gpio.h": "c",
+        "dht11.h": "c",
+        "tim.h": "c",
+        "main.h": "c",
+        "stm32f1xx_ll_system.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "stm32f1xx_hal_conf.h": "c",
+        "stm32f1xx_hal_gpio.h": "c",
+        "stm32f1xx_hal_def.h": "c",
+        "stm32f1xx.h": "c",
+        "stm32f103xb.h": "c"
+    }
+}
